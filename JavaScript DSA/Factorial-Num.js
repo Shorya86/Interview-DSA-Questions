@@ -1,4 +1,4 @@
-// 1 - Mehtod Function
+// 1 - Mehtod Functions
 
 // function Factiorial(num) {
 //   if (num == 0 || num == 1) {
